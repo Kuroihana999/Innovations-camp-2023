@@ -3,7 +3,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <nav className="bg-gradient-to-r from-custom-green to-custom-light-green border-b-4 border-custom-tan p-4">
+    <nav className="bg-gradient-to-r from-custom-green to-custom-light-green border-b-8 border-custom-tan p-4">
       <article className="container mx-auto">
         <section className="flex items-center justify-start">
           <h1 className="text-white text-lg font-bold">My Navbar</h1>
