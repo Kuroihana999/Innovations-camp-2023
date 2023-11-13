@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+
+
+    background: linear-gradient(to right, #3B7302, #9BBF65); /* Replace these colors with your gradient values */
+    
+}

@@ -1,13 +1,16 @@
 import { useState } from "react";
 
 import "./index.css";
+import Navbar from "./components/nav/Nav";
+import Mainpage from "./pages/mainpage/Mainpage";
 
 const App = () => {
   return (
     <>
-      <div>
-        <h1 className="text-3xl font-bold underline">Hello world!</h1>
-      </div>
+  
+    <Mainpage/>
+  
+
     </>
   );
 };
