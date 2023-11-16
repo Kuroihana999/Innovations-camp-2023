@@ -12,8 +12,10 @@ export default {
         'custom-tan': '#EBF2B3'
         
       }
+      
   
     },
+
   },
   plugins: [],
 }
